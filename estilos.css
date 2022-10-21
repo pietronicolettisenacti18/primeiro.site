@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
 * {
+
     margin: 0%;
     box-sizing: border-box;
 
@@ -142,16 +146,18 @@ nav {
 
 #botao-do-meio {
     position: absolute;
-    width: 421px;
+    width: 431px;
     height: 40px;
     left: 509px;
     top: 739px;
+    
     background: #0086AB;
     border-radius: 8px;
+    border: 0;
 }
 
 #titulo-do-botao {
-    width: 403px;
+    width: 415px;
     height: 18px;
     left: 848px;
     top: 750px;
@@ -218,6 +224,7 @@ nav {
     border-radius: 8px;
     font-family: 'Montserrat';
     color: #000000;
+    border: 0;
 }
 
 
@@ -260,6 +267,7 @@ nav {
     top: 1684px;
     background: #B8B8B8;
     border-radius: 8px;
+    border: 0;
 }
 
 #titulo-noticia3 {
@@ -303,6 +311,7 @@ nav {
     border-radius: 8px;
     font-family: 'Montserrat';
     color: #000000;
+    border: 0;
 }
 
 #titulo-noticia4 {
@@ -345,6 +354,7 @@ nav {
     border-radius: 8px;
     font-family: 'Montserrat';
     color: #000000;
+    border: 0;
 }
 
 #imagem-tabuleiro {
@@ -480,7 +490,7 @@ nav {
     line-height: 18px;
     color: #000000;
     list-style: none;
-    color: #007191;
+
 }
 
 #hobby-r {
@@ -496,7 +506,7 @@ nav {
     line-height: 18px;
     color: #000000;
     list-style: none;
-    color: #007191;
+  
 }
 
 #Acervo-r {
@@ -512,7 +522,7 @@ nav {
     line-height: 18px;
     color: #000000;
     list-style: none;
-    color: #007191;
+ 
 }
 
 #Contato-r {
@@ -528,5 +538,5 @@ nav {
     line-height: 18px;
     color: #000000;
     list-style: none;
-    color: #007191;
+ 
 }
